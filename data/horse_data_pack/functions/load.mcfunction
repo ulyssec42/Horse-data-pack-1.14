@@ -1,0 +1,1 @@
+tellraw @a {"text":"[Horse data pack] Initializing functions...\n[Horse data pack] Functions succesfully loaded !"}
